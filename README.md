@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IgorBaldo
+- 👀 I’m interested in learning new language, I have experience in C development in microcontroller such as PICs and Arduino. 
+- 🌱 I’m currently learning PHP
